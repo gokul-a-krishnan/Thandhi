@@ -67,7 +67,7 @@ class ProfileFragment : Fragment() {
                     } else {
                         "11"
                     }
-                toast(language)
+
                 if (::imageBytes.isInitialized) {
                     StorageUtil.uploadProfilePicture(imageBytes) { imagePath ->
                         FirestoreUtil.updateCurrentUser(
@@ -87,7 +87,7 @@ class ProfileFragment : Fragment() {
                         language
                     )
                 }
-//                toast("Updated")
+                toast("saved")
             }
             btn_sign_out.setOnClickListener {
                 AuthUI.getInstance().signOut(this@ProfileFragment.context!!)
