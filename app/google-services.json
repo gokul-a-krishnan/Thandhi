@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115450070045",
+    "firebase_url": "https://gstudios-thandhi.firebaseio.com",
+    "project_id": "gstudios-thandhi",
+    "storage_bucket": "gstudios-thandhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115450070045:android:eacb2fefc93d52523972f4",
+        "android_client_info": {
+          "package_name": "com.gstudios.thandhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115450070045-abfiueno1gk577jd93lsdj9l20e5tfr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gstudios.thandhi",
+            "certificate_hash": "b9d14fdc57c485bd2839a03e8fe7537bad1dc9bd"
+          }
+        },
+        {
+          "client_id": "115450070045-jnn8gbcqt98jmtukafj9e5dofef2ltp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPUU1DD9Trx710bHs_GFCDlF7Dz1lfzoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115450070045-jnn8gbcqt98jmtukafj9e5dofef2ltp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
